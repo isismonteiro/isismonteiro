@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou a Isis! 👋
 
-<!--
-**isismonteiro/isismonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Sobre mim
+- 🚀 Estudando desenvolvimento no **Zorin OS**.
+- 🛠️ Atualmente aprendendo Git, GitHub e VS Code.
+- 🎨 Adoro criar interfaces modernas.
 
-Here are some ideas to get you started:
+### 📊 Minhas estatísticas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=isismonteiro&show_icons=true&theme=dracula" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isismonteiro&layout=compact&theme=dracula" height="150em" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
